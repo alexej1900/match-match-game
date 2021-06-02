@@ -1,0 +1,71 @@
+[
+  {
+    "category": "mandala",
+    "images": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png",
+      "012.png",
+      "013.png",
+      "014.png",
+      "015.png",
+      "016.png",
+      "017.png",
+      "018.png"
+    ]
+  },
+  {
+    "category": "animals",
+    "images": [
+      "zebra.png",
+      "hedgehog.png",
+      "giraffe.png",
+      "beetle.png",
+      "deer.png",
+      "rhino.png",
+      "hippo.png",
+      "panda.png",
+      "turtle.png",
+      "elephant.png",
+      "crab.png",
+      "frog.png",
+      "chicken.png",
+      "dog.png",
+      "spider.png",
+      "shark.png",
+      "snake.png",
+      "parrot.png"
+    ]
+  },
+  {
+    "category": "houses",
+    "images": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png",
+      "012.png",
+      "013.png",
+      "014.png",
+      "015.png",
+      "016.png",
+      "017.png",
+      "018.png"
+    ]
+  }
+]
